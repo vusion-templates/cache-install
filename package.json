@@ -1,0 +1,14 @@
+{
+  "name": "cache-install",
+  "version": "0.1.9",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "cache-install": "bin/index.js"
+  },
+  "author": "zhangsanshi5566@gmail.com",
+  "license": "MIT"
+}
